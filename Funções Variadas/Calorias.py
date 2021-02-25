@@ -1,0 +1,12 @@
+print ("Que dia é hoje?")
+dia = str(input())
+print ("Quantas calorias consumiu no café da manhã?")
+clrc = int(input())
+print ("E no alomoço?")
+clra = int(input())
+print ("E na janta?")
+clrj = int(input())
+print ("E de lanche foram quantas calorias?")
+clrl = int(input())
+total = clrc + clra + clrj + clrl
+print (dia + " tivemos um total de "+ str(total) + " calorias consumidas.")
