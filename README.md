@@ -22,7 +22,7 @@ Certificado oferecido pela Share, em razão ao curso de introdução à Python.
 #### Minha versão do clássico jogo Snake:
 
 <div align="center">
-<img src="https://github.com/Edssaac/PythonProjetos/blob/master/Snake2.0/snake_menu.png" width='300'>
-<img src="https://github.com/Edssaac/PythonProjetos/blob/master/Snake2.0/snake_game.png" width='300'>
-<img src="https://github.com/Edssaac/PythonProjetos/blob/master/Snake2.0/snake_gameover.png" width='300'>
+<img src="https://github.com/Edssaac/PythonProjetos/blob/master/Snake2.0/snake_menu.png" width='250'>
+<img src="https://github.com/Edssaac/PythonProjetos/blob/master/Snake2.0/snake_game.png" width='250'>
+<img src="https://github.com/Edssaac/PythonProjetos/blob/master/Snake2.0/snake_gameover.png" width='250'>
 </div>
